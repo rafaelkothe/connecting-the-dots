@@ -1,4 +1,4 @@
-new_project
+Connecting The Dots: How Social Networks Shape Macroeconomic Expectations
 ==============================
 
 Description
@@ -42,4 +42,3 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
