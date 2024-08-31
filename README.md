@@ -1,4 +1,4 @@
-Connecting The Dots: How Social Networks Shape Macroeconomic Expectations
+Connecting the Dots: How Social Networks Shape Macroeconomic Expectations
 ==============================
 
 Description
